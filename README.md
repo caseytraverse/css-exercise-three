@@ -1,2 +1,3 @@
-# css-exercise-three
-CSS exercise focused on box model
+<b><h1>CSS exercises</b></h1>
+
+Assignment three for Bloc.
